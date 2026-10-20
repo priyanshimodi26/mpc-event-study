@@ -1,0 +1,17 @@
+---
+title: "How India's bond market, rupee and financial stocks react to RBI policy surprises"
+author: "Priyanshi Modi"
+format: pdf
+---
+
+## Summary
+
+## Background
+
+## Data and method
+
+## Results
+
+## Robustness and limits
+
+## Implications

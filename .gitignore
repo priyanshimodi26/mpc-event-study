@@ -1,0 +1,28 @@
+# Licensed Bloomberg data: never commit raw downloads
+data/raw/*
+!data/raw/.gitkeep
+bloomberg/*.xlsx
+bloomberg/*.xls
+bloomberg/*.csv
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Rapp.history
+renv/library/
+renv/staging/
+
+# Quarto
+/.quarto/
+*_files/
+note_cache/
+
+# Stata temp files
+*.gph~
+*.tmp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
